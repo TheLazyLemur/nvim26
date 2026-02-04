@@ -346,7 +346,10 @@ local plugins = {
 				},
 			})
 		end,
-	}
+	},
+	{
+		src = "TheLazyLemur/neogent.nvim",
+	},
 }
 
 for _, plugin in ipairs(plugins) do

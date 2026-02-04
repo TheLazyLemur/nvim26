@@ -25,6 +25,7 @@ keymap("n", "<leader>bo", require("modules/jumper").jump_to)
 keymap("n", "<leader>bd", require("modules/jumper").delete_jump_point)
 
 keymap("n", "<leader>cc", "<cmd>ClaudeCode<cr>")
+keymap("n", "<leader>ac", "<cmd>Neogent<cr>", { desc = "Toggle Neogent" })
 keymap("n", "-", "<cmd>Oil<cr>")
 keymap("n", "<leader>n", require("modules/filetree").toggle, { desc = "Toggle file tree" })
 
