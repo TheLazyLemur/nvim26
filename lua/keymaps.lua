@@ -86,3 +86,6 @@ keymap({ "n", "t" }, "<leader>tt", require("floatterm").select_terminal_menu,
 keymap({ "n", "t" }, "<leader>tn", require("floatterm").add_named_terminal, { desc = "Toggle floating terminal" })
 
 keymap('t', '<Esc>', [[<C-\><C-n>]], { desc = 'Switch to normal mode in terminal' })
+
+-- AI Operator (g=)
+require("modules.ai_operator").setup()
