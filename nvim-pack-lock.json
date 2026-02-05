@@ -45,7 +45,7 @@
       "src": "https://github.com/echasnovski/mini.icons"
     },
     "neogent.nvim": {
-      "rev": "d7e825feeb1f894c80bcc39940e71c3d474d0cc5",
+      "rev": "76c2c7af68ce83d87f66ce5f0e28816d63507a73",
       "src": "https://github.com/TheLazyLemur/neogent.nvim"
     },
     "neotest": {

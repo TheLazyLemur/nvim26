@@ -46,6 +46,7 @@ local function setup_ai()
     require("neogent").setup(vim.tbl_extend("force", creds_map.kimi(), {
         follow_agent = false,
         inject_diagnostics = false,
+		skills_paths = { vim.fn.expand("~/.claude/skills") }
     }))
 end
 
