@@ -9,11 +9,11 @@
       "src": "https://github.com/BlinkResearchLabs/blink-edit.nvim"
     },
     "blink.cmp": {
-      "rev": "4b18c32adef2898f95cdef6192cbd5796c1a332d",
+      "rev": "f9e855c4d96e1264f7c818844f5a0166ad48c212",
       "src": "https://github.com/saghen/blink.cmp"
     },
     "claude-code": {
-      "rev": "bd78b216ed563e57767901dcdd80f9a7750434c9",
+      "rev": "ef1e0ac0981451ddb924f9c5789949ff48e1995c",
       "src": "https://github.com/anthropics/claude-code"
     },
     "claudecode.nvim": {
@@ -21,7 +21,7 @@
       "src": "https://github.com/coder/claudecode.nvim"
     },
     "codecompanion.nvim": {
-      "rev": "61f56e863642d7c5c5b50c2a4b2ff9803ee0320d",
+      "rev": "3062e0bd14e5dd11f156d73b653298e538b43193",
       "src": "https://github.com/olimorris/codecompanion.nvim"
     },
     "conform.nvim": {
@@ -69,7 +69,7 @@
       "src": "https://github.com/mfussenegger/nvim-lint"
     },
     "nvim-lspconfig": {
-      "rev": "59cd07d8df2fefde32556268b8d52606a32152a1",
+      "rev": "0480b120318ec8bab27b530ffab6ee76a8c4d806",
       "src": "https://github.com/neovim/nvim-lspconfig"
     },
     "nvim-nio": {
@@ -77,7 +77,7 @@
       "src": "https://github.com/nvim-neotest/nvim-nio"
     },
     "nvim-treesitter": {
-      "rev": "4967fa48b0fe7a7f92cee546c76bb4bb61bb14d5",
+      "rev": "70a9fecaf5aeae70c765d4c51a8038165a91aa06",
       "src": "https://github.com/nvim-treesitter/nvim-treesitter",
       "version": "'main'"
     },
@@ -86,7 +86,7 @@
       "src": "https://github.com/stevearc/oil.nvim"
     },
     "opencode.nvim": {
-      "rev": "61830993249735a93eabb543dad1a79e0d7b7d81",
+      "rev": "0ff55d441bceca364af1c771f8ccdd3c93c4ffdd",
       "src": "https://github.com/sudo-tee/opencode.nvim"
     },
     "plenary.nvim": {
@@ -98,7 +98,7 @@
       "src": "https://github.com/MeanderingProgrammer/render-markdown.nvim"
     },
     "roslyn.nvim": {
-      "rev": "24f7c91ee5e09c63104deaab68f932620f25c24a",
+      "rev": "56c421a02451cc61c8d63cfe9dc2079453e1ea6d",
       "src": "https://github.com/seblyng/roslyn.nvim"
     },
     "snacks.nvim": {
